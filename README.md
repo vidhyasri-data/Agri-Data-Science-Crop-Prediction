@@ -16,3 +16,4 @@ To analyze soil health (NPK levels) and predict the best crops for farmers in Ma
 ### 🖼 Dashboard Preview
 ![Dashboard Screenshot]
 (https://github.com/vidhyasri-data/Agri-Data-Science-Crop-Prediction/blob/main/Screenshot%202026-04-15%20100015.png?raw=true)
+(https://github.com/vidhyasri-data/Agri-Data-Science-Crop-Prediction/blob/main/Screenshot%202026-04-29%20152446.png?raw=true)
